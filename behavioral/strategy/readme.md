@@ -1,8 +1,6 @@
 # Strategy
 
-```plaintext
-Design Pattern Strategy giúp định nghĩa ra được những thuật toán mà nó tương đồng với nhau đặt chúng vào những Object riêng biệt và chúng có thể hoán đổi được cho nhau.
-```
+**Design Pattern Strategy** giúp định nghĩa ra được những thuật toán mà nó tương đồng với nhau đặt chúng vào những Object riêng biệt và chúng có thể hoán đổi được cho nhau.
 
 ### Problem:
 
