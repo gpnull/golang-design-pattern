@@ -1,6 +1,6 @@
 # Factory Method
 
-**Design Pattern Factory Method** cung cấp interface cho việc khởi tạo ra các Object trong cùng một superclass. Tuy nhiên, nó sẽ cho phép các subclasses này có thể thay đổi được type của những Object trong lúc được tạo ra.
+**Design Pattern Factory Method** (Virtual Constructor) cung cấp interface cho việc khởi tạo ra các Object trong cùng một superclass. Tuy nhiên, nó sẽ cho phép các subclasses này có thể thay đổi được type của những Object trong lúc được tạo ra.
 
 ### Problem:
 

@@ -1,6 +1,6 @@
 # Composite
 
-**Design Pattern Composite** giúp chúng ta có thể tạo ra được những Object dưới dạng cấu trúc cây và sau đó có thể làm việc với những cấu trúc này như thể nó là những Object.
+**Design Pattern Composite** (Object Tree) giúp chúng ta có thể tạo ra được những Object dưới dạng cấu trúc cây và sau đó có thể làm việc với những cấu trúc này như thể nó là những Object.
 
 ### Problem:
 

@@ -1,6 +1,6 @@
 # Flyweight
 
-**Design Pattern Flyweight** được biết đến với cái tên là Cache, giúp chúng ta đưa những Object vào vùng memory và chia sẻ lại với nhau cho những Object khác thay vì phải chứa lại hết toàn bộ dung lượng cho Object này.
+**Design Pattern Flyweight** (Cache) giúp chúng ta đưa những Object vào vùng memory và chia sẻ lại với nhau cho những Object khác thay vì phải chứa lại hết toàn bộ dung lượng cho Object này.
 
 ### Problem:
 
